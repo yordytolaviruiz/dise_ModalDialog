@@ -33,8 +33,6 @@ body.modal-open {
     border: 1px solid rgba(0, 243, 255, 0.3);
     box-shadow: 0 0 30px rgba(0, 243, 255, 0.2);
     backdrop-filter: blur(10px);
-    align-items: center;
-    justify-content: space-between;
     gap: 1.5rem;
    padding: 0.8rem 1.5rem;
    place-items: center;
@@ -562,4 +560,5 @@ body.modal-open {
     }
 
 }
+
 
