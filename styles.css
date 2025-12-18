@@ -70,7 +70,7 @@ body.modal-open {
     flex-wrap: wrap;
 }
 
-.user-info-right h1 {
+.user-info-right h4 {
     background: linear-gradient(90deg, #00ff88, #00f3ff);
     -webkit-background-clip: text;
     background-clip: text;
@@ -80,6 +80,7 @@ body.modal-open {
     font-family: 'Exo 2', sans-serif;
     text-shadow: 0 0 10px rgba(0, 255, 136, 0.3);
     margin: 0;
+    place-items: center:
 }
 
 /* Header Principal */
@@ -566,4 +567,5 @@ body.modal-open {
         padding: 1rem 1.5rem;
         font-size: 1rem;
     }
+
 }
