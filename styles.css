@@ -35,7 +35,6 @@ body.modal-open {
     backdrop-filter: blur(10px);
     align-items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
     gap: 1.5rem;
    padding: 0.8rem 1.5rem;
    place-items: center;
@@ -563,3 +562,4 @@ body.modal-open {
     }
 
 }
+
